@@ -1,2 +1,2 @@
-def print_business_card (person)
+def display_rainbow ([ 'red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
 end
